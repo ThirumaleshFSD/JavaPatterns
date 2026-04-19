@@ -9,6 +9,7 @@ public class SpiralMatrixOf {
             for(int i=left;i<=right;i++){
                 System.out.print(a[top][i]+" ");
             }
+            //spiral method 
             top++;
             for(int i=top;i<=bottom;i++){
                 System.out.print(a[i][right]+" ");

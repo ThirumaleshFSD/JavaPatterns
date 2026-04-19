@@ -7,6 +7,7 @@ public class PrefixEqual {
                 s2=s2.substring(0,s2.length()-1);
             }
         }
+        //
         System.out.println(s2);
 
     }
