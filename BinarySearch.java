@@ -3,6 +3,7 @@ public class BinarySearch {
     public static void main(String[] args) {
         int a[]={3,8,4,1,5,9,2};
         Arrays.sort(a);
+        //sort
         
         int l=0;
         int r=a.length-1;
