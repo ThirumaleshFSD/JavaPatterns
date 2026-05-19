@@ -13,6 +13,7 @@ public class BinarySearch {
             if(a[mid]==tar){
                 System.out.println(a[mid]);
                 return;
+                //comment for the just streak
             }
             else if(tar<a[mid]){
                 r=mid-1;
