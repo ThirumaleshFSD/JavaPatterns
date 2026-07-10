@@ -5,6 +5,7 @@ public class BinarySearch {
         int a[]={3,8,4,1,5,9,2};
         Arrays.sort(a);
         //sort
+        //sorted the array then only we can use the binary search
         
         int l=0;
         int r=a.length-1;
